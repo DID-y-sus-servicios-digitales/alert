@@ -1,2 +1,2 @@
 # alert
-An alert more beautiful
+An  JavaScript alert more beautiful
