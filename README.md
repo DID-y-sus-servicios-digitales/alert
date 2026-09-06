@@ -15,4 +15,8 @@ Ways of use:
   ***let `variable` = await styled.confirm(`content`, `value of button false`, `value of button true`);***  
   and if it is inside a function, you have to put 'async' before `function`
 
+<hr>
+
+![Example](Example.png)
+
 
